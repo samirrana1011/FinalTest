@@ -7,3 +7,6 @@ Thanks God
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/samirrana1011/FinalTest.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/samirrana1011/FinalTest.svg)
+scrutinizer
+[![Build Status](https://scrutinizer-ci.com/g/samirrana1011/FinalTest/badges/build.png?b=master)](https://scrutinizer-ci.com/g/samirrana1011/FinalTest/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/samirrana1011/FinalTest/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
