@@ -7,7 +7,7 @@ final class EmailTest extends TestCase
 {
     public function testAddNumber()
     {
-        $this->assertEquals(4,4,'thanssksgod');
+        $this->assertEquals(4,5,'thanssksgod');
     }
 }
  
